@@ -1,0 +1,16 @@
+.sub-div{
+    display: flex;
+    justify-content: space-between;
+}
+
+/* .sec-4-img{
+    width: 33%;
+    @media (min-width:640) {
+        width: 100%        
+    }
+} */
+
+.j-enter{
+    display: flex;
+    
+}
